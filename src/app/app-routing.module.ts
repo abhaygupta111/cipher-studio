@@ -4,7 +4,7 @@ import { InfoComponent } from './pages/info/info.component';
 
 const routes: Routes = [
   {
-    path:'',
+    path:'info',
     component:InfoComponent,
   }
 ];
